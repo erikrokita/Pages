@@ -4,23 +4,34 @@
     <title>yes</title>
   </head>
   <body>
-    <h1>Erik Rokita (erikrokita)</h1>
+    <header>
+      <h1>Erik Rokita (erikrokita)</h1>
+    </header>
     <br/><br/>
-    <h4>my codepen site: https://codepen.io/erikrokita/pen/NLRVyw</h4>
-    <h4>codepen pizza site: https://codepen.io/erikrokita/pen/MqqjPx</h4>
+    <article>
+      <h4>my codepen site: https://codepen.io/erikrokita/pen/NLRVyw</h4>
+      <h4>codepen pizza site: https://codepen.io/erikrokita/pen/MqqjPx</h4>
+    </article>
     <br/>
-    <h4>my CSIS server site: https://webp.svsu.edu/~eerokita/cis255.html</h4>
-    <h4>CSIS server site: https://csis.svsu.edu/~eerokita/</h4>
+    <article>
+      <h4>my CSIS server site: https://webp.svsu.edu/~eerokita/cis255.html</h4>
+      <h4>CSIS server site: https://csis.svsu.edu/~eerokita/</h4>
+    </article>
     <br/>
-    <h4>my 000webhost site: https://erikrokita.000webhostapp.com/</h4>
-    <h4>000webhost prog01 site: http://prog01.000webhostapp.com/</h4>
+    <article>
+      <h4>my 000webhost site: https://erikrokita.000webhostapp.com/</h4>
+      <h4>000webhost prog01 site: http://prog01.000webhostapp.com/</h4>
+    </article>
     <br/>
-    <h4>m-drive prog01 site: https://webp.svsu.edu/~eerokita/prog01.html</h4>
-    <h4>wordpress topic site: https://cis255.wordpress.com/2018/09/16/pizza-making-time/</h4>
-
-    <h4>prog02 repo link: https://github.com/erikrokita/prog2</h4>
-    <h4>prog03 page link: </h4>
-    <h4></h4>
+    <article>
+      <h4>m-drive prog01 site: https://webp.svsu.edu/~eerokita/prog01.html</h4>
+      <h4>wordpress topic site: https://cis255.wordpress.com/2018/09/16/pizza-making-time/</h4>
+    </article>
+    <article>
+      <h4>prog02 repo link: https://github.com/erikrokita/prog2</h4>
+      <h4>prog03 page link: https://erikrokita.github.io/prog03/prog03.html</h4>
+      <h4></h4>
+    </article>
 
     //I believe that for github is the best platform for keeping articles because it is easy for<br/>
     //programmers to use and learn, and things like making new pages, commits, updates, editing, and all of that stuff<br/>
